@@ -1,0 +1,5 @@
+{
+    "require": {
+        "abcaeffchen/sudoku-php": "^1.0"
+    }
+}
